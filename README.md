@@ -2,7 +2,8 @@
 Case Study on Human Resources using MSSQL
 
 The case study on Human Resources which consists of three different tables: Employees, Departments and Projects.
--- SQL Challenge Questions
+
+SQL Challenge Questions
 
 1. Find the longest ongoing project for each department.
 2. Find all employees who are not managers.
