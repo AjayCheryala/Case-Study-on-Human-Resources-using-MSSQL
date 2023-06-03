@@ -11,13 +11,19 @@ SQL Challenge Questions
 4. Rank employees within each department based on their hire date (earliest hire gets the highest rank).
 5. Find the duration between the hire date of each employee and the hire date of the next employee hired in the same department.
 
-Function used to solve the questions: -
+### Function used to solve the questions: -
 • Window functions - RANK (), LEAD()
+
 • Sub queries
+
 • Like Operator
+
 • Date functions
+
 • Multi-Tables Joins
+
 • Where clause
+
 • Common Table Expression (CTE)
 
 
